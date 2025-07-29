@@ -6,8 +6,6 @@
 
 by Peter Kahl; independent multidisciplinary researcher
 
-29 July 2025
-
 ---
 
 Today (29 July 2025), I’ve formally issued legal warnings to Helen Hayes MP, Chair, and all members of the Education Select Committee. These warnings urgently demand the disclosure of potential conflicts of interest relating to their current inquiry into university funding and insolvency.
@@ -17,9 +15,8 @@ The Committee’s inquiry explicitly restricts admissible evidence, deliberately
 As such, I have chosen not to submit evidence under these compromised conditions, and I have challenged the Committee to publicly disclose their relationships or affiliations within the higher education sector.
 
 My press release is publicly available on Scribd and on GitHub:
-
-Scribd
-[GitHub (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Press-Release-Legal-Warnings-Sent-to-Education-Select-Committee-Demanding-Transparency/master/PRESS_RELEASE_Legal_Warnings_Issued_to_Education_Select_Committee_2025-07-29_REDACTED.pdf)
+- [Scribd](https://www.scribd.com/document/894558115/UK-Higher-Education-Sector-PRESS-RELEASE-Legal-Warnings-Issued-to-Education-Select-Committee-2025-07-29)
+- [GitHub (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Press-Release-Legal-Warnings-Sent-to-Education-Select-Committee-Demanding-Transparency/master/PRESS_RELEASE_Legal_Warnings_Issued_to_Education_Select_Committee_2025-07-29_REDACTED.pdf)
 
 Democratic governance demands transparency and accountability. Your engagement and comments are very welcome.
 
